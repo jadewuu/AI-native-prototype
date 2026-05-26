@@ -1,4 +1,4 @@
-# Design System Starter
+# AI-native-prototype
 
 基于 AI 的页面原型生成工具——用自然语言描述需求，自动生成符合设计规范的页面代码。
 
