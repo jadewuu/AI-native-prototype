@@ -7,7 +7,7 @@
 在 Claude Code 中执行以下命令：
 
 ```bash
-git clone <仓库地址> && cd design-system-starter && bash setup.sh
+git clone https://github.com/jadewuu/AI-native-prototype.git && cd design-system-starter && bash setup.sh
 ```
 
 setup.sh 会自动检查环境并引导你完成配置：
